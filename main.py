@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
 """
- Created on 2021/4/19 11:47
+ Created on 2022/7/11 17:21
  Filename   : spider_image_baidu.py
- Author     : Taosy
- Zhihu      : https://www.zhihu.com/people/1105936347
- Github     : https://github.com/AFei19911012
+ Author     : Zhang ye
  Description: Spider - get images from baidu
+
 """
 
 import requests
